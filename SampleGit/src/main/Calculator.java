@@ -41,5 +41,8 @@ public class Calculator {
 	public static void masterfun1(int num1){
 	      System.out.println(num1);
 	  }
+	public static void masterfun2(int num1){
+	      System.out.println(num1);
+	  }
 
 }
